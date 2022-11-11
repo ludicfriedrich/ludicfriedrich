@@ -1,15 +1,26 @@
-<h3 >Hi there 👋, my name is Ludic AGNIHOUEDE. A passionate backend developer from Benin</h3>
+<div width="100%" align="center">
+  <img align="left" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50"/>
+  <img align="right" src="https://media.giphy.com/media/bx3Cvt88j7PtM4SOaS/giphy.gif" width="50"/>
+</div>
 
-<p align=""> <img src="https://komarev.com/ghpvc/?username=ludicfriedrich&label=Profile%20views&color=0e75b6&style=flat" alt="ludicfriedrich" /> </p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="150"/>
+</div>
+<div width="100%" align="center">
+  <h1>
+    Hi there,
+    <img src="https://media.giphy.com/media/v0dGnTDFgEr68myH0C/giphy.gif" width="50"/>
+  </h1>
+</div>
+
+<h3 align="center">My name is Ludic AGNIHOUEDE. A passionate backend developer from Benin</h3>
+
 
 - 🌱 I’m currently learning **Laravel**
 
 - 👯 I’m looking to collaborate with [Edoutech](https://github.com/edouteech)
 
 - 📫 How to reach me **ludicagnihouede@gmail.com**
-
-
-![photo-de-couverture-informatique_4](https://user-images.githubusercontent.com/73608409/201437190-0c7bccc4-9fe0-45d8-89fc-65fe42c4ff3c.jpg)
 
 ![Ludic AGNIHOUEDE's GitHub stats](https://github-readme-stats.vercel.app/api?username=ludicfriedrich&show_icons=true&theme=transparent)
 
