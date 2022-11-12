@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **ludicagnihouede@gmail.com**
 
-![Ludic AGNIHOUEDE's GitHub stats](https://github-readme-stats.vercel.app/api?username=ludicfriedrich&show_icons=true&theme=transparent&private=true&all_commit=true)
+![Ludic AGNIHOUEDE's GitHub stats](https://github-readme-stats.vercel.app/api?username=ludicfriedrich&show_icons=true&theme=transparent&count_private=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
