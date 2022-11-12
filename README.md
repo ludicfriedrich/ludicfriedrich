@@ -19,7 +19,7 @@
 <h4 align="center">  A passionate backend developer and api builder from Benin </h4>
  
 <!-- Typing Master Picture --> 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450"/>
 <br /> <br />
 
 <!-- Profile Views -->
