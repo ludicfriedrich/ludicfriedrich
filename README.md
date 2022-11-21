@@ -90,7 +90,7 @@
 <br /> 
 -->
 
-<a href="https://github.com/ludicfriedrich"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ludicfriedrich&show_icons=true&include_all_commits=true&theme=react&hide_border=false&count_private=true" alt="Ludic AGNIHOUEDE's Github Stats" /></a>
+
 
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
