@@ -82,35 +82,19 @@
 -->
 <br>
 
-<!-- Updated Github Stats -->
+<!-- Updated Github Stats
 ## 📊 Github Statistics
+ -->
 <br/>	
 <!-- 
 <a href="https://github.com/ludicfriedrich/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludicfriedrich&layout=compact&theme=react&hide_border=false" /></a>
 <br /> 
 -->
 
-
-
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
-
-<!-- START_SECTION : Activity -->
-
-1. ❗️  Opened Issue [#001](https://github.com/Syber-Lab/Sybrenium/issues?q=label%3A%22good+first+issue%22+is%3Aissue+is%3Aopen) in [Syber-Lab/Sybrenium](https://github.com/Syber-Lab)
-2. 🎉 Merged PR [#97]
-3. ❗️  Closed issue [#000](https://github.com/Syber-Lab/syberstar-minified) in [Syberstar Minified](https://github.com/Syber-Lab/syberstar-minified)
-4. 💪 Opened PR [#97]
-5. 🗣 Commented on [#96]
-
-<!-- END SECTION :Activity -->
-</details>
-
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<!-- Activity Graph -->
+<!-- Activity Graph
 
-[![Shahzaib's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=ludicfriedrich&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</-- [![Ludic Friedrich's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=ludicfriedrich&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <!-- ##GitHub Profile Trophy
 <p align="center">
