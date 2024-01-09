@@ -36,7 +36,7 @@
 ### <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23"> Hi Developers <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23">
 
 **Here Are Some Of The Ideas To Get You Started :** 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate with [Edoutech](https://github.com/edouteech)
 
