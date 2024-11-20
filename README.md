@@ -6,17 +6,30 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="150"/>
 </div>
+
+---
+
 <div width="100%" align="center">
-  <h1>
+  <p>
     Hi there,
     <img src="https://media.giphy.com/media/v0dGnTDFgEr68myH0C/giphy.gif" width="50"/>
-  </h1>
-</div
-
+  </p>
+</div>
 
 <!-- Brief Text About Myself -->
-<h4 align="center">  My name is Ludic AGNIHOUEDE</h4>
-<h4 align="center">  A passionate backend developer and api builder from Benin </h4>
+<h4>👋 Salut, je suis Ludic AGNIHOUEDE</h4>  
+<ul>  
+    <li>🚀 Développeur Backend Passionné | 🌍 Originaire du Bénin</li>  
+    <li>💻 Constructeur d'API | 🛠️ Spécialisé dans la création de solutions scalables et efficaces</li>  
+</ul>  
+
+<p>✨ Je me spécialise dans le développement backend, j'adore travailler avec les bases de données,  
+et je m'épanouis en créant des API fluides qui propulsent des applications performantes.</p>  
+
+<p>📬 N'hésitez pas à découvrir mon travail et à entrer en contact avec moi !</p>  
+
+
+---
  
 <!-- Typing Master Picture --> 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450"/>
@@ -31,6 +44,16 @@
     <img title="Streak Stats 🔥" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ludicfriedrich&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
   </a>
 </p>
+<br /> <br />
+
+---
+
+<!-- Languages & Tools -->
+### 👨‍💻 Languages And Tools :
+
+[![Compétences](https://skillicons.dev/icons?i=laravel,python,django,mysql,)](https://skillicons.dev)
+
+---
 
 ## 📬 Contactez-moi
 
@@ -41,12 +64,6 @@
 Merci d’avoir pris le temps de découvrir mon profil !  
 📌 **Connectons-nous** pour partager nos idées et explorer ensemble le monde de la technologie. 🌟
 <br>
-
----
-<!-- Languages & Tools -->
-### 👨‍💻 Languages And Tools :
-
-[![Compétences](https://skillicons.dev/icons?i=laravel,python,django,mysql,)](https://skillicons.dev)
 
 
 <!--
