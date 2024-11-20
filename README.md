@@ -32,15 +32,14 @@
   </a>
 </p>
 
-<!-- Main Content Of The Page -->
-### <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23"> Hi Developers <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23">
+## 📬 Contactez-moi
 
-**Here Are Some Of The Ideas To Get You Started :** 
-- 🌱 I’m currently learning **Python**
+- **Twitter :** [@LudicFriedrich](https://twitter.com/LudicFriedrich)  
+- **LinkedIn :** [Ludic AGNIHOUEDE](https://www.linkedin.com/in/ludicagnihouede/)  
+- **Email :** [ludicagnihouede@gmail.com](mailto:ludicagnihouede@gmail.com)
 
-- 👯 I’m looking to collaborate with [Edoutech](https://github.com/edouteech)
-
-- 📫 How to reach me **ludicagnihouede@gmail.com**
+Merci d’avoir pris le temps de découvrir mon profil !  
+📌 **Connectons-nous** pour partager nos idées et explorer ensemble le monde de la technologie. 🌟
 <br>
 
 <!-- Find Me On The Web -->
@@ -68,7 +67,7 @@
 <!-- Languages & Tools -->
 ### 👨‍💻 Languages And Tools :
 
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="26" height="26"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="26" height="26"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="26" height="26"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="26" height="26"/> </a> </p>
+[![Compétences](https://skillicons.dev/icons?i=laravel,python,django,mysql,)](https://skillicons.dev)
 
 
 <!--
