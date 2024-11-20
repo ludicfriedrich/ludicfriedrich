@@ -42,28 +42,7 @@ Merci d’avoir pris le temps de découvrir mon profil !
 📌 **Connectons-nous** pour partager nos idées et explorer ensemble le monde de la technologie. 🌟
 <br>
 
-<!-- Find Me On The Web -->
-<p align="center">
-  <b><i>Let's Connect !! Find Me On The Web. 👋</i></b>
-</p>
-
-<!-- Social Sites & Connecting -->
-### Connect With Me On - 
-
-<a href="https://www.instagram.com/ludicfriedrich/" target="blank" title="Instagram">
-	<img align="left" alt="Instagram" height="25px" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
-</a>
-<a href="https://twitter.com/ludicfriedrich" target="blank" title="Twitter">
-	<img align="left" alt="Twitter" height="25px" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
-</a>
-
-<a href="https://www.linkedin.com/in/ludicagnihouede/" title="LinkedIN">
-	<img align="left" alt="LinkedIN" height="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-</p>
-<br/>
-
+---
 <!-- Languages & Tools -->
 ### 👨‍💻 Languages And Tools :
 
