@@ -30,26 +30,9 @@ et je m'épanouis en créant des API fluides qui propulsent des applications per
 
 
 ---
- 
-<!-- Typing Master Picture --> 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450"/>
-<br /> <br />
-
-<!-- Profile Views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ludicfriedrich" alt="Shahzaib Fardeen" /> </p>
-
-<!-- Github Streaks Stats -->
-<p align="center">
-  <a href="https://github.com/ludicfriedrich">
-    <img title="Streak Stats 🔥" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ludicfriedrich&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-  </a>
-</p>
-<br /> <br />
-
----
 
 <!-- Languages & Tools -->
-### 👨‍💻 Languages And Tools :
+### 👨‍💻 Langages :
 
 [![Compétences](https://skillicons.dev/icons?i=laravel,python,django,mysql,)](https://skillicons.dev)
 
