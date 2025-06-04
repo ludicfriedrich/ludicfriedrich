@@ -1,80 +1,95 @@
-<div width="100%" align="center">
-  <img align="left" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50"/>
-  <img align="right" src="https://media.giphy.com/media/bx3Cvt88j7PtM4SOaS/giphy.gif" width="50"/>
-</div>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ludicfriedrich.ludicfriedrich" />
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="150"/>
-</div>
-
----
-
-<div width="100%" align="center">
-  <p>
-    Hi there,
-    <img src="https://media.giphy.com/media/v0dGnTDFgEr68myH0C/giphy.gif" width="50"/>
-  </p>
-</div>
-
-<!-- Brief Text About Myself -->
-<h4>👋 Salut, je suis Ludic AGNIHOUEDE</h4>  
-<ul>  
-    <li>🚀 Développeur Backend Passionné | 🌍 Originaire du Bénin</li>  
-    <li>💻 Constructeur d'API | 🛠️ Spécialisé dans la création de solutions scalables et efficaces</li>  
-</ul>  
-
-<p>✨ Je me spécialise dans le développement backend, j'adore travailler avec les bases de données,  
-et je m'épanouis en créant des API fluides qui propulsent des applications performantes.</p>  
-
-<p>📬 N'hésitez pas à découvrir mon travail et à entrer en contact avec moi !</p>  
-
-
----
-
-<!-- Languages & Tools -->
-### 👨‍💻 Langages :
-
-[![Compétences](https://skillicons.dev/icons?i=laravel,python,django,mysql,)](https://skillicons.dev)
-
----
-
-## 📬 Contactez-moi
-
-- **Twitter :** [@LudicFriedrich](https://twitter.com/LudicFriedrich)  
-- **LinkedIn :** [Ludic AGNIHOUEDE](https://www.linkedin.com/in/ludicagnihouede/)  
-- **Email :** [ludicagnihouede@gmail.com](mailto:ludicagnihouede@gmail.com)
-
-Merci d’avoir pris le temps de découvrir mon profil !  
-📌 **Connectons-nous** pour partager nos idées et explorer ensemble le monde de la technologie. 🌟
-<br>
-
-
-<!--
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
--->
-<br>
-
-<!-- Updated Github Stats
-## 📊 Github Statistics
- -->
-<br/>	
-<!-- 
-<a href="https://github.com/ludicfriedrich/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludicfriedrich&layout=compact&theme=react&hide_border=false" /></a>
-<br /> 
--->
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<!-- Activity Graph
-
-</-- [![Ludic Friedrich's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=ludicfriedrich&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-
-<!-- ##GitHub Profile Trophy
 <p align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=shahzaibfardeen)](https://github.com/ryo-ma/github-profile-trophy)
- </p> -->
+  <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Bonjour,+je+suis+Ludic+%F0%9F%91%8B;Développeur+Backend+passionné;Créateur+d'APIs+et+données+optimisées&center=true&size=26&width=700&pause=1000&repeat=false&color=2E86AB" alt="Typing SVG Ludic" />
+  </a>
+</p>
+
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/ludicagnihouede/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> LinkedIn</a></code>
+  <code><a href="https://github.com/ludicfriedrich" title="GitHub Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> GitHub</a></code>
+  <code><a href="mailto:ludicagnihouede@gmail.com" title="Email"><img width="22" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" /> Email</a></code>
+  <code><a href="https://linktr.ee/LudicFriedrich" title="Linktree"><img width="22" src="https://cdn-icons-png.flaticon.com/512/888/888879.png" /> Linktree</a></code>
+</h5>
+
+<br>
+
+<p align="center">
+  Passionné par la création d'APIs robustes et l'optimisation des bases de données.<br/>
+  🇧🇯 Basé au Bénin · Simplicité et performance au cœur de mes projets · Ouvert aux collaborations
+</p>
+
+<hr />
+
+<h2 align="center">🧑‍💻 Compétences & Outils</h2>
+
+<p align="center">
+  <code><img title="Laravel" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" /></code>
+  <code><img title="PHP" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></code>
+  <code><img title="Python" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
+  <code><img title="Django" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /></code>
+  <code><img title="MySQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></code>
+  <code><img title="Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
+  <code><img title="REST API" height="25" src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" /></code>
+</p>
+
+<hr />
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align="center">
+  <div align="center" style="max-width: 800px;">
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="GitHub Streak Stats">
+      <img align="left" width="390" src="https://streak-stats.demolab.com/?user=ludicfriedrich&theme=react&border_color=2E86AB&hide_border=true" alt="ludicfriedrich GitHub Streak" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats">
+      <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=ludicfriedrich&show_icons=true&theme=react&border_color=2E86AB&hide_border=true" alt="ludicfriedrich GitHub Stats" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align="center" style="max-width: 800px;">
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Top Languages">
+      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludicfriedrich&layout=compact&theme=react&border_color=2E86AB&hide_border=true&langs_count=8" alt="ludicfriedrich Top Languages" />
+    </a>
+  </div>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ludicfriedrich&theme=react-dark&hide_border=true" width="100%" alt="ludicfriedrich GitHub Activity Graph" />
+</p>
+
+<hr />
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+
+<table align="center" width="80%" style="table-layout: fixed;">
+  <tr align="center">
+    <td>
+      <a href="https://github.com/ludicfriedrich/track-order-api" title="Api de gestion de commandes">
+        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ludicfriedrich&repo=track-order-api&theme=react&border_color=2E86AB&border_radius=10" />
+      </a>
+    </td>
+    <!--
+    <td>
+      <a href="https://github.com/ludicfriedrich/mon-projet-2" title="Mon Projet 2">
+        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ludicfriedrich&repo=mon-projet-2&theme=react&border_color=2E86AB&border_radius=10" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/ludicfriedrich/mon-projet-3" title="Mon Projet 3">
+        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ludicfriedrich&repo=mon-projet-3&theme=react&border_color=2E86AB&border_radius=10" />
+      </a>
+    </td>
+    -->
+  </tr>
+</table>
+
+<br/>
+
+<h4 align="center">
+  <a href="https://github.com/ludicfriedrich?tab=repositories" title="Voir plus de repositories">🔎 Voir plus 🔍</a>
+</h4>
+
+
+<p align="center">
+  <em>Merci de votre visite ! Discutons backend, APIs, bases de données, ou collaborons sur un projet 🚀</em>
+</p>
