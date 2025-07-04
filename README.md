@@ -25,13 +25,7 @@
 <h2 align="center">🧑‍💻 Compétences & Outils</h2>
 
 <p align="center">
-  <code><img title="Laravel" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" /></code>
-  <code><img title="PHP" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></code>
-  <code><img title="Python" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
-  <code><img title="Django" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /></code>
-  <code><img title="MySQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></code>
-  <code><img title="Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
-  <code><img title="REST API" height="25" src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" /></code>
+  🚀 <strong>Laravel</strong> &nbsp;&nbsp; | &nbsp;&nbsp; 🐘 <strong>PHP</strong> &nbsp;&nbsp; | &nbsp;&nbsp; 🐍 <strong>Python</strong> &nbsp;&nbsp; | &nbsp;&nbsp; 🌿 <strong>Django</strong> &nbsp;&nbsp; | &nbsp;&nbsp; 🗄️ <strong>MySQL</strong> &nbsp;&nbsp; | &nbsp;&nbsp; 🔧 <strong>Git</strong> &nbsp;&nbsp; | &nbsp;&nbsp; 🌐 <strong>REST API</strong>
 </p>
 
 <hr />
