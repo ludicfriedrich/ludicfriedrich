@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ludicfriedrich.ludicfriedrich" />
 
 <p align="center">
-  <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
+  <a href="#" target="_blank" rel="noopener noreferrer">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Bonjour,+je+suis+Ludic+%F0%9F%91%8B;Développeur+Backend+passionné;Créateur+d'APIs+et+données+optimisées&center=true&size=26&width=700&pause=1000&repeat=false&color=2E86AB" alt="Typing SVG Ludic" />
   </a>
 </p>
